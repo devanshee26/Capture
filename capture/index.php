@@ -13,7 +13,7 @@
     }
     else
     {
-      header("Location:login.php");
+      header("Location:../login/login/index.html");
     }
 ?>
 <html lang="en">
